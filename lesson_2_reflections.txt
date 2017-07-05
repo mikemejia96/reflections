@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+- Initializing a repository is like the same as creating a new folder. No commits are made, no programs are created, simply
+a new repository is made and ready for manipulations. This is necessary to begin working on a new project and keep its
+contents within the same place so that things are not lost and programs run as intended.
+
+How is the staging area different from the working directory and the repository? what value do you think it offers?
+- The staging area is just a temporary place to move files that are ready for commitment to changes while working
+directories are where those commitments are finally stored and the repository stores everything involoving your program
+edits.

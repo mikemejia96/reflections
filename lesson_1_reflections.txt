@@ -1,0 +1,20 @@
+This is my first time launching the notepad application via the command prompt on git bash.
+The course instructed me to create a text file reflecting my thoughts thus far in the course.
+From what I am understanding, git bash has the capability to compare to files and spot small differences between them.
+This can be especially useful when making edits to old code and spotting the bugs of the new code.
+This would have been especially helpful when I was doing my CS courses and learning to program.
+I also should have listened to my father since he basically knew that I would be using git at some point in my life.
+I digress, FC is the command used by the command prompt in windows to spot differences between two files (hence its name,
+File Compare). As this makes debugging code so much easier, I will certainly use this program to begin developing the code
+necessary to start this app. God help me.
+
+How can you use the commands git log and git diff to view the history of files?
+-git log displays each and every commit made between changes and their custom descriptions. This is useful to keep track 
+of the changes made and the description can help keep the user update with what changes were made at the time of committing
+-git diff tracks the difference between two commits. That way, the user can explore the change between two commits and
+then pinpoint what changes were made and were bugs may lie in the code.
+
+How might using version control make you more confident to make changes that could break something?
+-It allows you to experiment with changes to your code while being able to refer to old code that may have worked as
+intended. Therefore, you can certainly try adding additional features to your program that would be more desirable in than
+the previous version but also have a reference to what changes were made by comparing the original code to your new code.
