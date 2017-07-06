@@ -1,0 +1,5 @@
+When would you want to create a remote repository rather than keeping all your work local?
+- You want to create a remote repository when you want to share your code amongst the public coding community on github.
+It is a good idea to share that code when you want to work with a group of people on one single project. That group can offer changes to
+the code that you can review and collaborate what you want to implement into the master copy. Keeping work locally only lets you access
+your code.
